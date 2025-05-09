@@ -1,0 +1,4 @@
+Car
+luxury car
+2025-04-30 11:06:12 - Deleted vehicle type: car
+car

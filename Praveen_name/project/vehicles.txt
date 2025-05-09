@@ -1,0 +1,5 @@
+car:4
+bike:3
+truck:2
+lorry:3
+luxury car:5
